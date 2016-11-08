@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Dave Fravel"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Dave Fravel"
 description              : "An amazing website."
 url                      : "http://davefravel.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,12 +77,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dave Fravel"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "Developer and Dad"
+  location         : "Cape Cod, MA"
+  email            : "dave@bluegear.io"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,10 +97,10 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "dfravel"
   vine             :
   weibo            :
   xing             :
