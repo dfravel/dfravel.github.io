@@ -78,18 +78,18 @@ analytics:
 # Site Author
 author:
   name             : "Dave Fravel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/fravel.jpg"
   bio              : "Developer and Dad"
   location         : "Cape Cod, MA"
   email            : "dave@bluegear.io"
-  uri              : 
+  uri              : "http://bluegear.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "dfravel"
   google_plus      :
   keybase          :
   instagram        :
@@ -97,7 +97,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "dfravel"
