@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Dave Fravel"
 description              : "Personal Blog"
 url                      : "http://davefravel.com/"
-baseurl                  : "/"
+baseurl                  :
 repository               : "dfravel/dfravel.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "dfravel"
 facebook:
   username               :
   app_id                 :
