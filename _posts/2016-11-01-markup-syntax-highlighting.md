@@ -2,6 +2,7 @@
 title: "Markup: Syntax Highlighting"
 excerpt: "Post displaying the various ways of highlighting code in Markdown. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, accusantium sint ullam? Facere, perferendis in ipsa hic explicabo ad vitae sequi soluta eligendi asperiores quod delectus voluptas minus magni officia."
 modified: 2016-09-09T09:55:10-04:00
+comments: true
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories:
