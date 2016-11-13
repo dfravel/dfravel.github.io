@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dave Fravel - Dad, Developer &amp; Reluctant Runner"
+title                    : "Dave Fravel (Dad, Developer &amp; Reluctant Runner)"
 title_separator          : "-"
-name                     : "Dave Fravel"
-description              : "Personal Blog"
+name                     : "Dave Fravel (Dad, Developer & Reluctant Runner)"
+description              : ""
 url                      : "http://davefravel.com/"
 baseurl                  :
 repository               : "dfravel/dfravel.github.io"
