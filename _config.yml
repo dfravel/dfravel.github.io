@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dave Fravel - Dad, Developer and Reluctant Runner"
+title                    : "Dave Fravel - Dad, Developer &amp; Reluctant Runner"
 title_separator          : "-"
 name                     : "Dave Fravel"
-description              : "An amazing website."
-url                      : "http://davefravel.com"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Personal Blog"
+url                      : "http://davefravel.com/"
+baseurl                  : "/"
 repository               : "dfravel/dfravel.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
