@@ -69,6 +69,14 @@
         text-indent: $indent-var;
         margin-top: -($indent-var);
       }
+
+      img {
+        margin-bottom: 1em;
+        border: 10px solid #fff;
+        padding: 5px;
+        box-shadow: 0 0 10px rgba(#000, 0.25);
+      }
+
     }
   }
 
