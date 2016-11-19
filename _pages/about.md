@@ -10,7 +10,7 @@ modified: 2016-11-19
 If you've made it to this page you obviously have too much free time or my name made the news in some horrific fashion and you need to get some basic background on me. Either way - welcome to my latest website. Over the past 10 years I've had a few different personal sites - nearly all of them are shuttered, sold or forgotten. I'd love to promise that I'll commit to writing on this site regularly, but if history has taught me anything it's that I have no idea what next week has in store. For now, I will promise to update this as often as possible on the topics that matter to me which are ... 
 
 ## Being a Dad
-![Keely, Caitlin and Colin](/assets/images/dorks.JPG)
+![Keely, Caitlin and Colin](/assets/images/dorks.JPG){: .content-image}
 I'm blessed to have three incredible kids. At the time of this writing Caitlin is 20 and a junior at Framingham State; Keely is 16 and a junior at Barnstable High School; Colin is 13 and a 7th grader at Barnstable Intermediate School. They are the most important people in my life and I'm so proud of the young adults they've become. 
 
 ## My Girlfriend/Partner
