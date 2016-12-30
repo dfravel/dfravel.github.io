@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 header:
-  overlay_image: "http://forums.alpinezone.com/gallery/data/1124/medium/Photo-0053.jpg"
+  overlay_image: "https://goo.gl/photos/GhQPXMDQxR3ordvs6"
 excerpt: "I used to think I was special."  
 permalink: /about/
 layout: single
