@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_image: /assets/images/zig.JPG
   #cta_label: "<i class='fa fa-download'></i> Install Now"
