@@ -1,5 +1,8 @@
 ---
 title: "About Me"
+header:
+  overlay_image: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+excerpt: "I used to think I was special."  
 permalink: /about/
 layout: single
 author_profile: true
@@ -24,6 +27,6 @@ I spent seven years building 20Mile Technologies. Through most of those seven ye
 
 
 ### About this site
-I  didn't want to start posting to [Medium](https://medium.com) like some gentrified, hipster Brooklyn d-bag (is that redundant?). I _definitely_ didn't want "just another wordpress site". I have to deal with those pieces shit too much in my day-to-day job. I looked around at the million and seventeen content management systems. I played with Sculpin, Statamic, CraftCMS, OctoberCMS, PyroCMS and the latest ExpressionEngine. 
+I  didn't want to start posting to [Medium](https://medium.com) like some gentrified, hipster Brooklyn d-bag (is that redundant?). I _definitely_ didn't want "just another wordpress site". I have to deal with those pieces of trash too much in my day-to-day job. I looked around at the million and seventeen content management systems. I played with Sculpin, Statamic, CraftCMS, OctoberCMS, PyroCMS and the latest ExpressionEngine. 
 
 They're all great platforms with some wonderful people behind the scenes, but for this site I wanted to use something that I'll probably never use in my day-to-day job. I settled on [Jekyll](http://www.jekyllrb.com) hosted on [GitHub Pages](https://pages.github.com/). The theme came from [Michael Rose](https://mademistakes.com/). It's available on [Github](https://github.com/mmistakes/minimal-mistakes). For anyone who loves to write in Markdown, is familiar with GitHub and GitHub Pages, and isn't afraid of troubleshooting bundle errors, this is the static CMS for you. 
