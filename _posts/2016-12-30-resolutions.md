@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to 2017"
 header:
-  overlay_image: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+  overlay_image: "http://c8.staticflickr.com/9/8797/17215984295_23fe348a85_h.jpg"
 excerpt: "I'm not a fan of New Year's Resolutions, but the flip from 2016 --> 2017 feels like it needs something." 
 categories: 
   - Resolutions
@@ -29,3 +29,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+_Photo Credit: [Elizabeth Hollin](https://www.flickr.com/photos/hollin/)_
