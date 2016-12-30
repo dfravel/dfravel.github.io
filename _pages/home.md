@@ -7,20 +7,27 @@ header:
   #cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: 'The adventures of a regular guy on Cape Cod'
-feature_row:
-  - image_path: /assets/images/about.JPG
-    alt: "about-me"
-    title: "About Me"
-    excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt aspernatur dolor fugiat eius laudantium nihil, nulla ad repellat corporis, rem ducimus commodi veritatis magnam maxime doloribus ratione dignissimos nisi! Maiores.."
-    url: "/about/"
-    btn_label: "Read more"
-  
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+#feature_row:
+#  - image_path: /assets/images/about.JPG
+#    alt: "about-me"
+#    title: "About Me"
+#    excerpt: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt aspernatur dolor fugiat eius laudantium nihil, nulla ad #repellat corporis, rem ducimus commodi veritatis magnam maxime doloribus ratione dignissimos nisi! Maiores.."
+#    url: "/about/"
+#    btn_label: "Read more"
+#  
+#  - image_path: /assets/images/mm-responsive-feature.png
+#    alt: "fully responsive"
+#    title: "Responsive Layouts"
+#    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+#    url: "/docs/layouts/"
+#    btn_label: "Learn More"
+#
+#  - image_path: /assets/images/mm-responsive-feature.png
+#    alt: "fully responsive"
+#    title: "Responsive Layouts"
+#    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+#    url: "/docs/layouts/"
+#    btn_label: "Learn More"
   
   
 github:
