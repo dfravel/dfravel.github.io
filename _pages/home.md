@@ -2,7 +2,7 @@
 layout: splash
 permalink: /home/
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newcomb_Beach%2C_Cape_Cod.JPG/1920px-Newcomb_Beach%2C_Cape_Cod.JPG
+  overlay_image: /assets/images/golf-course.JPG
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
