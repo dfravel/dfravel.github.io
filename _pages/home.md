@@ -1,9 +1,7 @@
 ---
 layout: splash
 permalink: /home/
-excerpt: "This time it will stick"
 header:
-  overlay_color: "#5e616c"
   overlay_image: https://commons.wikimedia.org/wiki/Category:Cape_Cod#/media/File:Newcomb_Beach,_Cape_Cod.JPG
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
