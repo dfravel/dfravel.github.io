@@ -1,8 +1,14 @@
 ---
 layout: archive
-header: 
+header:
   overlay_image: "https://commons.wikimedia.org/wiki/Category:Cape_Cod#/media/File:Newcomb_Beach,_Cape_Cod.JPG"
+excerpt: "This time it will stick"
 ---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
