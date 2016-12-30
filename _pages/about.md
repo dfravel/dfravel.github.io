@@ -10,7 +10,7 @@ date: 2016-11-12
 modified: 2016-11-19
 ---
 
-#A little bit about me
+# A little bit about me
 If you've made it to this page you obviously have too much free time or my name made the news in some horrific fashion and you need to get some basic background on me. Either way - welcome to my latest website. 
 
 Over the past 10 years I've had a few different personal sites - nearly all of them are shuttered, sold or forgotten. I'd love to promise that I'll commit to writing on this site regularly, but if history has taught me anything it's that I have no idea what next week has in store. For now, I  promise to update this as often as possible on the topics that matter to me which are ... 
