@@ -34,7 +34,7 @@ feature_row:
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'This is the spot for an ironic, self-deprecating comment. I can't think of any at the moment.'
+  - excerpt: 'This is the spot for an ironic, self-deprecating comment. I can''t think of any at the moment.'
 ---
 
 {% include feature_row id="intro" type="center" %}
