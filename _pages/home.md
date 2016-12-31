@@ -8,26 +8,27 @@ header:
   caption:
 excerpt: 'The adventures of a regular guy on Cape Cod'
 feature_row:
-  - image_path: /assets/images/about.JPG
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
-  
-  - image_path: /assets/images/about.JPG
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+ 
+  - image_path: /assets/images/capecod-400x200.png
+    alt: "cape cod"
+    title: "Where I live"
+    excerpt: "I have a love/hate relationship with the Cape. Depending on the time of year it's too small, too big, too loud, too quiet, too many choices, not enough to do, but for now it's home."
+    url: "/cape-cod/"
+    btn_label: "More about the Cape"
 
-  - image_path: /assets/images/about.JPG
-    alt: "fully responsive"
-    title: "Responsive Layouts"
-    excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_label: "Learn More"
+  - image_path: /assets/images/bgl-400x200.png
+    alt: "bluegear"
+    title: "What I do"
+    excerpt: "Sue and I are partners in bluegear labs. When we're not chauffering kids around we're in front of a computer crafting custom web applications and developing web sites."
+    url: "/bluegear/"
+    btn_label: "More about bluegear"
+
+  - image_path: /assets/images/fam.png
+    alt: "my family"
+    title: "Who I am"
+    excerpt: "This picture is woefully out of date. Colin is now two inches taller than everyone, and Caitlin and Keely hate this picture, but I haven't had time to take a new one. It's on my new year's resolution list."
+    url: "/about/"
+    btn_label: "More about me"
   
   
 github:
