@@ -77,9 +77,9 @@ During those two hours I moved the trait to a new location; I rewrote portions o
 ## The Problem and Solution
 The problem was in the first line of the trait code. No, not `trait SendConfirmation{`
 
-It was the differennce between `<?` and `<?php'`
+It was the differennce between `<?` and `<?php`
 
-My trait file didn't have `<?php'`
+My trait file didn't have `<?php`
 
 ## The Moral of the Story
 There are a few morals to this story:
