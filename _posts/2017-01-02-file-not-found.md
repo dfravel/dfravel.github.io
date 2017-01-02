@@ -54,6 +54,7 @@ class RegistrationController extends Controller
 It looked perfectly normal. There were no changes at all from the last time we ran this app. Granted, the app hadn't been used since April 2016 and it was a very Laravel versions back, but the controller and trait files hadn't been changed by me or Sue since we archived the app. 
 
 The trait itself was in the Traits folder with the correct namespacing:
+
 ```
 <?
 
@@ -68,6 +69,7 @@ use DB;
 
 trait SendConfirmation {
 ```
+
 Maybe you've already seen the problem with the code, but it took me over two hours and finally the help of Sue looking over my shoulder as we went through every line of code and log file output. 
 
 During those two hours I moved the trait to a new location; I rewrote portions of it; I changed the function name and took out one line at a time trying to get to the bottom of it. I DD'd every line of code I could and I seriously considered scrapping the trait and rewriting the functions within the Controller. I also started to think deep thoughts about re-writing the entire application (how hard could it be?).
