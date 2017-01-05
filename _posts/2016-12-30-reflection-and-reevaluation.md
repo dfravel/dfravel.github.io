@@ -2,7 +2,6 @@
 title:  "Welcome to 2017"
 header:
   overlay_image: "http://c8.staticflickr.com/9/8797/17215984295_23fe348a85_h.jpg"
-  teaser: "http://c8.staticflickr.com/9/8797/17215984295_23fe348a85_h.jpg"
 excerpt: "I'm not a fan of New Year's Resolutions, but after the turmoil and anxiety of 2016 this is the perfect time for some reflection and re-evaluation. 2017 will be better." 
 categories: 
   - Updates

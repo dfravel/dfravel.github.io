@@ -2,7 +2,6 @@
 title:  "File Not Found"
 header:
   overlay_image: "/assets/images/matrix-background.jpg"
-  teaser: "/assets/images/trait-not-found.png"
 excerpt: "Sometimes the default error message will lead you on a two-hour wild goose chase and have you re-writing your apps and questioning your sanity." 
 categories: 
   - Laravel

@@ -2,7 +2,7 @@
 title:  "Pausing Social Media"
 header:
   overlay_image: "/assets/images/timesuck.jpg"
-  teaser: "/assets/images/timesuck.jpg"
+
 excerpt: "In 2016 I deleted Facebook, LinkedIn, Reddit and Instagram. I freed up about 2 hours of wasted time each day. Now it's time to rid myself of Twitter." 
 categories: 
   - Updates
