@@ -87,12 +87,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
   github           : "dfravel"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
@@ -184,6 +184,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -246,6 +247,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false 
+      comments: false
       share: false
       related: true
