@@ -1,12 +1,17 @@
 ---
-title:  "File Not Found"
+title: File Not Found
+layout: single
+author_profile: true
+read_time: true
+related: true
 header:
   overlay_image: "/assets/images/matrix-background.jpg"
-excerpt: "Sometimes the default error message will lead you on a two-hour wild goose chase and have you re-writing your apps and questioning your sanity." 
-categories: 
-  - Laravel
+excerpt: Sometimes the default error message will lead you on a two-hour wild goose
+  chase and have you re-writing your apps and questioning your sanity.
+categories:
+- Laravel
 tags:
-  - errors
+- errors
 ---
 
 # File Not Found
@@ -50,7 +55,7 @@ class RegistrationController extends Controller
 	}
 ```
 
-It looked perfectly normal. There were no changes at all from the last time we ran this app. Granted, the app hadn't been used since April 2016 and it was a very Laravel versions back, but the controller and trait files hadn't been changed by me or Sue since we archived the app. 
+It looked perfectly normal. There were no changes at all from the last time we ran this app. Granted, the app hadn't been used since April 2016 and it was a few Laravel versions back, but the controller and trait files hadn't been changed by me or Sue since we archived the app. 
 
 The trait itself was in the Traits folder with the correct namespacing:
 
@@ -86,4 +91,4 @@ There are a few morals to this story:
 1. Sometimes the default error message will send you down the wrong path. 
 2. When tracking down bugs, look for the easiest possible solution first
 3. Have Sue around to help you troubleshoot. She's pretty smart
-4. Apparently, there's a difference between `<?` and `<?php` 
+4. Apparently, there's a difference between `<?` and `<?php`
