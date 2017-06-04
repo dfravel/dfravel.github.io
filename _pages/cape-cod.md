@@ -12,7 +12,7 @@ modified: '2017-01-02'
 ---
 
 # Where I live
-Welcome to the Silicon Sandbar. Work where you live! Home of the Blue Economy.  
+Welcome to the Silicon Sandbar. Work where you live! Home of the Blue Economy.  Heroin: Cape Cod ... I forget what our latest tagline is. 
 
 I bought a house in Cotuit in 1998 and have lived on the Cape since March of 1999. I've seen the rise, fall, rise again, stumble, and reinvention of the Cape's white-collar economy. 
 
